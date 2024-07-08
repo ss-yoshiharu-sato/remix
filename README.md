@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+[日本語](./README.ja.md)
+
 We are happy you're here!
 
 [Remix](https://remix.run) is a full stack web framework that lets you focus on the user interface and work back through web fundamentals to deliver a fast, slick, and resilient user experience that deploys to any Node.js server and even non-Node.js environments at the edge like Cloudflare Workers.
