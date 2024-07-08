@@ -1,6 +1,6 @@
 # Welcome to Remix!
 
-[日本語](./README.ja.md)
+[Japanese](./README.ja.md)
 
 We are happy you're here!
 
